@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi, my name is Ferdian 👋
 
 <!--
 **ferdiansakti/ferdiansakti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm very interested about networking, like MikroTik, Cisco, Juniper and other device. Now I'm learning about Machine Learning, now I also learning about Cyber Security, and sometimes I play for CTF contest.
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
