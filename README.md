@@ -1,17 +1,17 @@
-## Hi, my name is Ferdian 👋
+### Hi! 👋 I'm Ferdian.
 
-I'm very interested about networking, like MikroTik, Cisco, Juniper and other device. Now I'm learning about Machine Learning, now I also learning about Cyber Security, and sometimes I play for CTF contest.
+ I'm very interested about networking, like MikroTik, Cisco, Juniper and other device. Now I'm learning Machine Larning, now I also learning about Cyber Security, and sometimes I play for CTF contest.
 
- <!--
-**ferdiansakti/ferdiansakti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- 🔭 I am currently studying at Hasyim Asy'ari Tebuireng University, Jombang
+- 🌱 I’m currently learning about *cloud computing, big data, networking, and machine learning*
+- 💬 Feel free to ask me about networking like MikroTik
+- 📫 How to reach me: ferdian@smkdb1jombang.sch.id
+- ⚡ Fun fact: Always learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Statistic
+<p align="left">
+<a href="https://github.com/ferdiansakti">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
