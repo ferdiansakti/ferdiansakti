@@ -12,10 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Connecting+IT+Infrastructure%2C+Software%2C+and+AI;Building+practical%2C+data-driven+solutions;Learning%2C+building%2C+and+sharing+knowledge" alt="Animated introduction" />
 
 <p>
-  <a href="https://github.com/ferdiansakti">
-    <img src="https://img.shields.io/badge/GitHub-ferdiansakti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/ferdian-sakti/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ferdiansakti&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
