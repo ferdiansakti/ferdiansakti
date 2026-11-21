@@ -32,7 +32,7 @@ My work sits at the intersection of **reliable IT systems, practical software en
 
 Currently, I work in programming and AI education, with a focus on helping students develop practical skills in Python, data analytics, data science, and machine learning.
 
-- 🎓 **Education:** B.Eng. in Informatics Engineering — Universitas Hasyim Asy’ari Tebuireng Jombang
+- 🎓 **Education:** B.Eng. in Informatics Engineering - Universitas Hasyim Asy’ari Tebuireng Jombang
 - 👨‍🏫 **Current focus:** Programming & AI instruction, Python, and digital literacy
 - 🧠 **Areas of interest:** Artificial Intelligence, Machine Learning, Data Science, and NLP
 - 🌐 **Engineering background:** Network infrastructure, system administration, and web application development
