@@ -1,22 +1,27 @@
+<!--
+  GitHub Profile README
+  Repository: https://github.com/ferdiansakti/ferdiansakti
+-->
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123B5D,100:06B6D4&height=220&section=header&text=FERDIAN%20SAKTI&fontSize=46&fontColor=EAF7FF&fontAlignY=38&desc=IT%20Professional%20%7C%20AI%20%26%20Data%20Science%20%7C%20Software%20%26%20Infrastructure&descAlignY=59&descSize=15" width="100%" alt="Profile header" />
+# 👋 Hi, I'm Ferdian Sakti
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+technology+and+data-driven+solutions;Connecting+IT+Infrastructure%2C+Software%2C+and+AI;Teaching+the+next+generation+of+digital+creators" alt="Typing introduction" />
+### IT Professional · Software · Infrastructure · AI & Data Science
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Connecting+IT+Infrastructure%2C+Software%2C+and+AI;Building+practical%2C+data-driven+solutions;Learning%2C+building%2C+and+sharing+knowledge" alt="Animated introduction" />
+
+<p>
+  <a href="https://github.com/ferdiansakti">
+    <img src="https://img.shields.io/badge/GitHub-ferdiansakti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ferdiansakti&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-  <p>
-    <a href="https://github.com/ferdiansakti">
-      <img src="https://img.shields.io/badge/GitHub-ferdiansakti-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=ferdiansakti&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
-
-  <p><i>Technology with purpose. Engineering with curiosity. Knowledge worth sharing.</i></p>
+<i>Technology with purpose. Engineering with curiosity. Knowledge worth sharing.</i>
 
 </div>
 
@@ -91,29 +96,48 @@ Currently, I work in programming and AI education, with a focus on helping stude
 ### Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,nodejs,html,css" alt="Programming technologies" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### Data Science & Artificial Intelligence
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" alt="Data and AI technologies" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
 ### Database, Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,linux,ubuntu,docker,git,github,apache,nginx" alt="Database and infrastructure technologies" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
 ### Networking & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
 </p>
 
 ---
@@ -230,5 +254,5 @@ I'm always interested in exchanging ideas, collaborating on meaningful technolog
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:123B5D,100:0B1220&height=110&section=footer" width="100%" alt="Footer" />
+  <sub>Thanks for visiting my profile · Let's build something meaningful.</sub>
 </div>
